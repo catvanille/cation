@@ -1,10 +1,8 @@
 ---
-title: 🪴 healing cat
-enableToc: false
+title: Welcome to Cation
 ---
 
-welcome! here, you will find notes on cycle syncing, recipes, and journaling :\]
-
+hi! here, you will find notes on cycle syncing, recipes, and journaling :\]
 ## Recipes
 > dw, they don't come with a 2 page essay on my grandma's passing
 
@@ -17,5 +15,3 @@ welcome! here, you will find notes on cycle syncing, recipes, and journaling :\]
 
 ## Nutrients
 [[iron]] 
-
-
