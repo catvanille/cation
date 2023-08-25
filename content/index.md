@@ -2,7 +2,7 @@
 title: Welcome to Cation
 ---
 
-hi! here, you will find notes on cycle syncing, recipes, and journaling :\]
+hi! here's a little collection of recipes, notes on cycle-syncing, and  :\]
 ## Recipes
 [[brekkies]]
 [[mains]]
@@ -11,4 +11,4 @@ hi! here, you will find notes on cycle syncing, recipes, and journaling :\]
 [[snacks]]
 ## Nutrients
 [[iron]] 
-[[protein]] 
+[[protein]]  

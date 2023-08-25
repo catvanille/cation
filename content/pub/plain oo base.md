@@ -2,8 +2,8 @@
 title: plain overnight oat base
 draft: false
 tags:
-  - brekkies
   - recipes
+  - no-cook
 ---
 
 

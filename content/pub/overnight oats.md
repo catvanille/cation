@@ -1,7 +1,5 @@
 ---
 title: overnight oats
-tags:
-  - recipes
 ---
 [[plain oo base]] 
 [[plain oo base w protein powder]] 
