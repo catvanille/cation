@@ -2,7 +2,7 @@
 title: plain overnight oat base
 draft: false
 tags:
-  - recipes
+  - base
   - no-cook
 ---
 

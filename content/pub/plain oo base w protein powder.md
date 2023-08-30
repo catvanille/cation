@@ -2,7 +2,7 @@
 title: plain overnight oat base w protein powder
 draft: false
 tags:
-- recipes
+- base
 - no-cook
 - protein
 ---
