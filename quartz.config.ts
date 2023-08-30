@@ -11,6 +11,7 @@ const config: QuartzConfig = {
     },
     baseUrl: "catvanille.github.io/cation",
     ignorePatterns: ["private", "templates"],
+    defaultDateType:"modified",
     theme: {
       typography: {
         header: "Homemade Apple",

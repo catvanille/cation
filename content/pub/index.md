@@ -6,6 +6,6 @@ title: Welcome to Cation
 [[mains]]
 [[sides]]
 [[dessert]] 
-[[snacks]]
+[[snackies]] 
 
 > i try stuff and adjust :D
