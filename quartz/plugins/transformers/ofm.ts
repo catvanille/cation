@@ -69,6 +69,8 @@ const callouts = {
 const calloutMapping: Record<string, keyof typeof callouts> = {
   note: "note",
   abstract: "abstract",
+  summary: "abstract",
+  tldr: "abstract",
   info: "info",
   todo: "todo",
   tip: "tip",
@@ -96,7 +98,7 @@ const calloutMapping: Record<string, keyof typeof callouts> = {
 
 function canonicalizeCallout(calloutName: string): keyof typeof callouts {
   let callout = calloutName.toLowerCase() as keyof typeof calloutMapping
-  return calloutMapping[callout] ?? calloutName
+  return calloutMapping[callout] ?? "note"
 }
 
 const capitalize = (s: string): string => {
@@ -109,7 +111,7 @@ const capitalize = (s: string): string => {
 // (#[^\[\]\|\#]+)? -> # then one or more non-special characters (heading link)
 // (|[^\[\]\|\#]+)? -> | then one or more non-special characters (alias)
 const wikilinkRegex = new RegExp(/!?\[\[([^\[\]\|\#]+)?(#[^\[\]\|\#]+)?(\|[^\[\]\|\#]+)?\]\]/, "g")
-const highlightRegex = new RegExp(/==(.+)==/, "g")
+const highlightRegex = new RegExp(/==([^=]+)==/, "g")
 const commentRegex = new RegExp(/%%(.+)%%/, "g")
 // from https://github.com/escwxyz/remark-obsidian-callout/blob/main/src/index.ts
 const calloutRegex = new RegExp(/^\[\!(\w+)\]([+-]?)/)
