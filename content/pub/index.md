@@ -3,9 +3,11 @@ title: Welcome to Cation
 ---
 ## Recipes
 [[brekkies]]
-[[mains]]
-[[sides]]
 [[dessert]] 
 [[snackies]] 
 
-> i try stuff and adjust :D
+## Women's Health
+[[cycle syncing]] 
+[[seed sync/seed cycling|seed cycling]] 
+
+## Resources

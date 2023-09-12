@@ -1,1 +1,1 @@
-[[plain chia pudding base]] 
+[[recipes/plain chia pudding base]] 

@@ -1,1 +1,1 @@
-[[hemp seeds]] 
+[[ingredients/hemp seeds]] 
